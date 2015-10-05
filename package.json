@@ -1,7 +1,6 @@
 {
   "name": "gradprojtest",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/tzkKrbys/gradprojtest/issues"
   },
-  "homepage": "https://github.com/tzkKrbys/gradprojtest#readme"
+  "homepage": "https://github.com/tzkKrbys/gradprojtest#readme",
+  "dependencies": {
+    "mime": "^1.3.4"
+  },
+  "devDependencies": {},
+  "description": ""
 }
